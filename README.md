@@ -4,8 +4,8 @@
 Build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct. They should also be able to make notes on transactions for other members of the team to read.
 
 ## Requirements:
-Feed view: where ops team can see all most recent transactions, ordered either by most recent or by status.
-Transaction view: where ops team can see information about a transaction, approve the transaction.
+**Feed view**: where ops team can see all most recent transactions, ordered either by most recent or by status.
+**Transaction view**: where ops team can see information about a transaction, approve the transaction.
 
 ## Endpoints:
 - `GET /transaction/:id`
