@@ -1,10 +1,13 @@
 # Fat Lama Frontend Challenge
 
 ## Challenge:
-Build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct. They should also be able to make notes on transactions for other members of the team to read.
+To keep the Fat Lama business moving, our Operations team reviews transactions, verifies user identities and deals with many other user support issues.
+
+In this challenge, we would like you to build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct. They should also be able to make notes on transactions for other members of the team to read.
 
 ## Requirements:
 **Feed view**: where ops team can see all most recent transactions, ordered either by most recent or by status.
+
 **Transaction view**: where ops team can see information about a transaction, approve the transaction.
 
 ## Endpoints:
