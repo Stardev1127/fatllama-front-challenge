@@ -5,6 +5,11 @@ To keep the Fat Lama business moving, our Operations team reviews transactions, 
 
 In this challenge, we would like you to build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct. 
 
+### Set up
+Start by duplicating this repo (please do not fork it, see [instructions](https://help.github.com/articles/duplicating-a-repository/)). Bitbucket offers free private repos if you don't want to use a public one.
+
+You'll find a pre-built binary for Linux, OSX and Windows in the repo which provides a sandbox backend environment for you to build your frontend against. We promise that these binaries do nothing underhanded!
+
 ## Requirements:
 **Feed view**: where ops team can see all most recent transactions, ordered either by most recent or by status.
 
