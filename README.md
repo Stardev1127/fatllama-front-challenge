@@ -3,7 +3,9 @@
 ## Challenge:
 To keep the Fat Lama business moving, our Operations team reviews transactions, verifies user identities and deals with many other user support issues.
 
-In this challenge, we would like you to build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct. 
+In this challenge, we would like you to build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct.
+
+**If you are applying for a web frontend-focussed position, build this as a web app. If you are applying for a mobile-focussed position, build this as a mobile app.** It is your choice what technologies to use, but please include a short (<500 words) summary explaining your choices in terms of technology, structure and design.
 
 ### Set up
 Start by duplicating this repo (please do not fork it, see [instructions](https://help.github.com/articles/duplicating-a-repository/)). Bitbucket offers free private repos if you don't want to use a public one.
@@ -25,7 +27,7 @@ Documentation for the API and instructions for the challenge are deliberately sp
 
 ## Criteria/Guidance
 - The challenge is about your grasp of user experience as well as about your coding ability
-- Use of frameworks and libraries is up to you. We suggest you use a boilerplate such as [create-react-app](https://github.com/facebook/create-react-app) to get yourself up and running quickly
+- Use of frameworks and libraries is up to you. We suggest you use a boilerplate (e.g. [create-react-app](https://github.com/facebook/create-react-app) for web) to get yourself up and running quickly and save time.
 - Try to implement appropriate [separation of concerns](https://effectivesoftwaredesign.com/2012/02/05/separation-of-concerns/) & modular code
 - Think hard about naming of functions and variables
 - Code style & file structure is up to you, but make sure it is consistent and legible
