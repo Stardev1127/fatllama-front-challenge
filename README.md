@@ -1,7 +1,7 @@
-# Fat Lama Frontend Challenge
+# Fat Llama Frontend Challenge
 
 ## Challenge:
-To keep the Fat Lama business moving, our Operations team reviews transactions, verifies user identities and deals with many other user support issues.
+To keep the Fat Llama business moving, our Operations team reviews transactions, verifies user identities and deals with many other user support issues.
 
 In this challenge, we would like you to build a feed for our ops team to monitor the most recent transactions and view information about that transaction and that user, and approve transactions if it is all correct.
 
